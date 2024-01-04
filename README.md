@@ -25,13 +25,12 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 saroshfaheem.sf@gmail.com
 
 🎨 Portfolio: https://hammad-air.github.io/hammad/
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
-
-📷 Instagram : https://www.instagram.com/hammad2980/
+💼 LinkedIn: [Your Link Here]
+📷 Instagram : [Your Link Here]
  
 <h2>Tech Stack</h2>
 
@@ -43,9 +42,9 @@
     </td><td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td><td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
+        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="80">
     </td><td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="80">
     </td>
 </tr>
    <tr>
@@ -54,7 +53,7 @@
     </td><td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
     </td><td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="[https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg](https://github.com/bestofjs/bestofjs)" width="80">
     </td><td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
     </td>
