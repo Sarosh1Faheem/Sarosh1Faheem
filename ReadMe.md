@@ -9,7 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Founder & CEO of @sarosh @shoppingavenue @cravemart 🤖
 	
 👨‍💻 Lead NLP Developer at HandyHelps
 
@@ -27,10 +27,10 @@
 
 📧 saroshfaheem.sf@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://vercel.com/sarosh1faheems-projects
 
-💼 LinkedIn: [Your Link Here]
-📷 Instagram : [Your Link Here]
+💼 LinkedIn: https://www.linkedin.com/in/sarosh-s/
+📷 Twitter (X) : https://x.com/SaroshFaheem
  
 <h2>Tech Stack</h2>
 
