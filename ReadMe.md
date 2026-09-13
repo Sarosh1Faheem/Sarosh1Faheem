@@ -25,7 +25,7 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 saroshfaheem.sf@gmail.com
+📧 saroshfaheem.sf@gmail.com/saroshfaheem1996@gmail.com
 
 🎨 **Portfolio:** [HERE](https://vercel.com/sarosh1faheems-projects)
 
