@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Ayan Hussain
+# 👋 Hi, I'm Muhammad Sarosh Faheem
 
 ### Data Engineer · AWS Community Builder · Mentor · Published Researcher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-hussain/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanhussain81)
-[![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ayanhussain912)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanhussain746@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarosh-s/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarosh1Faheem)
+[![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaroshFaheem)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saroshfaheem.sf6@gmail.com)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 Data Engineer with **5 years of experience** building high-scale, production-grade data solutions across **pharma**, **healthcare**, and **finance**. I specialize in designing ETL/ELT pipelines that process **1.5B+ files**, architecting streaming systems, and enabling enterprise-grade analytics platforms.
 
-Beyond engineering, I actively give back to the community — recognized as an **AWS Community Builder**, having **mentored 500+ data engineering students**, and serving as Technical Head of the AI Club at NEDUET. I'm also a **published researcher** in machine learning.
+Beyond engineering, I actively give back to the community — recognized as an **AWS Community Builder**, having **mentored 500+ data engineering students**, and serving as Technical Head of the AI Club at KIET. I'm also a **published researcher** in machine learning.
 
 ```text
 🏭  Industries     →  Pharmaceuticals · Healthcare · Finance · Capital Markets
