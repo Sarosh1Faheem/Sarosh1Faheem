@@ -27,10 +27,12 @@
 
 📧 saroshfaheem.sf@gmail.com
 
-🎨 Portfolio: (HERE)[https://vercel.com/sarosh1faheems-projects]
+🎨 **Portfolio:** [HERE](https://vercel.com/sarosh1faheems-projects)
 
-💼 LinkedIn: (Here)[https://www.linkedin.com/in/sarosh-s/]
-📷 Twitter (X) : (Here)[https://x.com/SaroshFaheem]
+💼 **LinkedIn:** [HERE](https://www.linkedin.com/in/sarosh-s/)
+
+📷 **Twitter (X):** [HERE](https://x.com/SaroshFaheem)
+
  
 <h2>Tech Stack</h2>
 
